@@ -1,6 +1,5 @@
 {
-  "_location": "/@dyarzik/react-native-webview",
-  "name": "@dyarzik/react-native-webview",
+  "name": "@markodzurik/react-native-webview",
   "description": "React Native WebView component for iOS, Android, macOS, and Windows",
   "main": "index.js",
   "typings": "index.d.ts",
